@@ -5,8 +5,6 @@
 <p align="center">Preview da página inicial (Zoom: 100%)</p>
 <img src="/public/HelpDesk-preview.png">
 
-[Clique AQUI para acessar](https://nepht022.github.io/HelpDesk/public/index.php)
-
 ## Ferramentas
 
 - HTML
