@@ -12,8 +12,7 @@
     $usuarios = [
         ['id' => 1, 'email' => 'adm@teste.com.br', 'senha' => 'admin', 'perfil_id' => 1], 
         ['id' => 2, 'email' => 'jose@teste.com.br', 'senha' => '12345', 'perfil_id' => 2],
-        ['id' => 3, 'email' => 'maria@teste.com.br', 'senha' => '12345', 'perfil_id' => 2],
-        ['id' => 4, 'email' => 'rodrigofreire2102000@gmail.com', 'senha' => '12345', 'perfil_id' => 1]
+        ['id' => 3, 'email' => 'maria@teste.com.br', 'senha' => '12345', 'perfil_id' => 2]
     ];
 
     //para cada usuario no "BD" compara com o usuario vindo do form
