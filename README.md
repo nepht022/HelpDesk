@@ -10,6 +10,6 @@
 - HTML
 - CSS
 - Bootstrap
-- Fontawesome
+- PHP
 - Git
 - Github
