@@ -3,7 +3,7 @@
 <p align="center">Aplicação de helpdesk</p>
 
 <p align="center">Preview da página inicial (Zoom: 100%)</p>
-<img src="/public/HelpDesk-preview.png">
+<img src="/public/preview/HelpDesk-preview.png">
 
 ## Ferramentas
 
